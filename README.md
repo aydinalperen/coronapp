@@ -8,10 +8,6 @@ And also it makes a social network between Coronapp users. <br />
 ![Ekran Kaydı](./src/RPReplay-Final1585332337.gif)
 
 
-Twitter: [@duoyazilim](https://www.twitter.com/duoyazilim) <br />
-Instagram: [@duoyazilim](https://www.instagram.com/duoyazilim) <br />
-Website: https://www.duoyazilim.com
-
 # Made With
 
 [React Native](https://reactnative.dev)  <br />
